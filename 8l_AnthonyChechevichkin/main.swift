@@ -8,4 +8,5 @@
 
 import Foundation
 
-Спасибо за вводный курс! В ожидании продолжения!
+print("Hello, World!")
+
